@@ -1,10 +1,10 @@
 # Subdomain Takeover Tool
 
 ## Usage
-  git clone https://github.com/tonythebughunter/subdomain-takeover
+      git clone https://github.com/tonythebughunter/subdomain-takeover
 
-  cd subdomain-takeover
+      cd subdomain-takeover
 
-  pip install -r requirementts.txt
+      pip install -r requirementts.txt
 
-  python takeover.py domains.txt
+      python takeover.py domains.txt
