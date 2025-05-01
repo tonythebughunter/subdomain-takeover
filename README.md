@@ -7,6 +7,6 @@
 ## naviagate to the directory
       cd subdomain-takeover
 ## install requirements
-      pip install -r requirementts.txt
+      pip install -r requirements.txt
 ## run the script
       python takeover.py domains.txt
