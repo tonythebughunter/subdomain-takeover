@@ -10,3 +10,11 @@
     pip install -r requirements.txt
 ## run the script
     python takeover.py domains.txt
+
+
+## If you run into issues while installing requirements, setup a virtual environment
+    python -m venv env
+## activate the environment
+    source venv/vin/activate
+## Now you can install the requirements
+    pip install -r requirements.txt
