@@ -8,7 +8,7 @@
     cd subdomain-takeover
 ## install requirements
     pip install -r requirements.txt
-## run the script
+## Detect subdomain takeover vulnerability on a list of subdomains
     python takeover.py domains.txt
 
 
