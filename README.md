@@ -15,6 +15,6 @@
 ## If you run into issues while installing requirements, setup a virtual environment
     python -m venv env
 ## activate the environment
-    source venv/vin/activate
+    source env/vin/activate
 ## Now you can install the requirements
     pip install -r requirements.txt
